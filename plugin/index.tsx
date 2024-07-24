@@ -7,7 +7,9 @@ app.html("/", async (ctx) => {
         <title>Fancy Box</title>
       </head>
       <body>
-        <h1>Version: main</h1>
+        <h1>
+          Version: <b>Semen</b>
+        </h1>
       </body>
     </html>
   );
